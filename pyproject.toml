@@ -5,3 +5,4 @@ description = "One file. Under 200 lines. Zero dependencies. It's a coding agent
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # drop an unused branch
+# clarify the control flow
